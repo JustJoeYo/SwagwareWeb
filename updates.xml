@@ -2,5 +2,5 @@
 <item>
     <version>1.0.0.0</version>
     <url>https://github.com/JustJoeYo/SwagLoader/blob/main/Loader.exe?raw=true</url>
-    <mandatory>true</mandatory>
+    <mandatory mode="2">true</mandatory>
 </item>
